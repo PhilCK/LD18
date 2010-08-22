@@ -1,0 +1,889 @@
+TLD18
+v7
+r0
+t304200158.088086
+cCheck dependencies
+cProcessInfoPlistFile "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Info.plist" LD18-Info.plist
+cCopyStringsFile "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCpResource build/Release/LD18.app/Contents/Resources/media ../../media
+cCpResource build/Release/LD18.app/Contents/Resources/icon.icns icon.icns
+cProcessPCH /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dwuvygqpzzezuucydfnmjnsqvygb/LD18_Prefix.pch.gch LD18_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-faywbkdbrhlqgqdutqjzhiohyilt/LD18_Prefix.pch.gch LD18_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-fmduebnznxvcccckidkywascdxck/LD18_Prefix.pch.gch LD18_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-btdqugkquycamgfbmcsbpuvwzkcb/LD18_Prefix.pch.gch LD18_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dcdzhiqpwfddswdohqkxhgwtattk/LD18_Prefix.pch.gch LD18_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-bseroygecarhgqbtfjgsebrolprq/LD18_Prefix.pch.gch LD18_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18AppDelegate.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LD18.build/Release/LD18.build/Objects-normal/x86_64/window_mac.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18AppDelegate.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LD18.build/Release/LD18.build/Objects-normal/i386/window_mac.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18" normal x86_64
+cCompileC build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18AppDelegate.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LD18.build/Release/LD18.build/Objects-normal/ppc/window_mac.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+cLd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18" normal i386
+cLd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18" normal ppc
+cCreateUniversalBinary "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app.dSYM" "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18"
+cPBXCp build/Release/LD18.app/Contents/Frameworks/Gosu.framework /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework
+cTouch "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app"
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework
+c000000004C4D77E700000000000000CC
+t1280145383
+s204
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Gosu
+c000000004C18FE5C000000000027AF38
+t1276706396
+s2600760
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Audio.hpp
+c000000004C14E95200000000000016FD
+t1276438866
+s5885
+i<windows.h>
+i<Gosu/Fwd.hpp>
+i<Gosu/IO.hpp>
+i<Gosu/Platform.hpp>
+i<boost/scoped_ptr.hpp>
+i<string>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/AutoLink.hpp
+c000000004B8AB86F000000000000013E
+t1267382383
+s318
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Bitmap.hpp
+c000000004B8AB86F0000000000000C6E
+t1267382383
+s3182
+i<Gosu/Color.hpp>
+i<Gosu/Fwd.hpp>
+i<Gosu/GraphicsBase.hpp>
+i<boost/scoped_ptr.hpp>
+i<string>
+i<vector>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/ButtonsMac.hpp
+c000000004B8AB86F0000000000000C7E
+t1267382383
+s3198
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/ButtonsWin.hpp
+c000000004B8AB86F0000000000000A05
+t1267382383
+s2565
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/ButtonsX.hpp
+c000000004B8AB86F0000000000000D18
+t1267382383
+s3352
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Color.hpp
+c000000004C14E95200000000000014D9
+t1276438866
+s5337
+i<boost/cstdint.hpp>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Directories.hpp
+c000000004B8AB86F000000000000047B
+t1267382383
+s1147
+i<string>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Font.hpp
+c000000004C18FDE70000000000000BD5
+t1276706279
+s3029
+i<Gosu/Fwd.hpp>
+i<Gosu/Color.hpp>
+i<Gosu/GraphicsBase.hpp>
+i<Gosu/Platform.hpp>
+i<boost/scoped_ptr.hpp>
+i<string>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Fwd.hpp
+c000000004B8AB86F000000000000022E
+t1267382383
+s558
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Gosu.hpp
+c000000004B8AB86F00000000000003AD
+t1267382383
+s941
+i<Gosu/Audio.hpp>
+i<Gosu/Bitmap.hpp>
+i<Gosu/Color.hpp>
+i<Gosu/Directories.hpp>
+i<Gosu/Font.hpp>
+i<Gosu/Graphics.hpp>
+i<Gosu/Image.hpp>
+i<Gosu/ImageData.hpp>
+i<Gosu/Input.hpp>
+i<Gosu/IO.hpp>
+i<Gosu/Math.hpp>
+i<Gosu/Platform.hpp>
+i<Gosu/RotFlip.hpp>
+i<Gosu/Sockets.hpp>
+i<Gosu/Text.hpp>
+i<Gosu/TextInput.hpp>
+i<Gosu/Timing.hpp>
+i<Gosu/Utility.hpp>
+i<Gosu/Window.hpp>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Graphics.hpp
+c000000004C14E9520000000000000F26
+t1276438866
+s3878
+i<Gosu/Fwd.hpp>
+i<Gosu/Color.hpp>
+i<Gosu/GraphicsBase.hpp>
+i<boost/array.hpp>
+i<boost/scoped_ptr.hpp>
+i<memory>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/GraphicsBase.hpp
+c000000004C14E9520000000000000738
+t1276438866
+s1848
+i<limits>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/IO.hpp
+c000000004B8ABD11000000000000194D
+t1267383569
+s6477
+i<boost/utility.hpp>
+i<boost/scoped_ptr.hpp>
+i<cstddef>
+i<algorithm>
+i<string>
+i<vector>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Image.hpp
+c000000004BAF6C330000000000001865
+t1269787699
+s6245
+i<Gosu/Fwd.hpp>
+i<Gosu/Bitmap.hpp>
+i<Gosu/RotFlip.hpp>
+i<boost/scoped_ptr.hpp>
+i<memory>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/ImageData.hpp
+c000000004C14E95200000000000005A8
+t1276438866
+s1448
+i<Gosu/Color.hpp>
+i<Gosu/GraphicsBase.hpp>
+i<boost/optional.hpp>
+i<boost/utility.hpp>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Input.hpp
+c000000004C14E952000000000000100F
+t1276438866
+s4111
+i<Gosu/Fwd.hpp>
+i<Gosu/Platform.hpp>
+i<Gosu/ButtonsWin.hpp>
+i<windows.h>
+i<Gosu/ButtonsMac.hpp>
+i<X11/Xlib.h>
+i<X11/Xutil.h>
+i<X11/keysym.h>
+i<Gosu/ButtonsX.hpp>
+i<Gosu/Platform.hpp>
+i<Gosu/Fwd.hpp>
+i<boost/function.hpp>
+i<boost/scoped_ptr.hpp>
+i<vector>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Math.hpp
+c000000004C02031100000000000012C6
+t1275200273
+s4806
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Platform.hpp
+c000000004C14E95200000000000006A1
+t1276438866
+s1697
+i<algorithm>
+i<TargetConditionals.h>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/RotFlip.hpp
+c000000004B8AB86F0000000000000B89
+t1267382383
+s2953
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Sockets.hpp
+c000000004B8AB86F0000000000001181
+t1267382383
+s4481
+i<boost/cstdint.hpp>
+i<boost/function.hpp>
+i<boost/scoped_ptr.hpp>
+i<cstddef>
+i<string>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Text.hpp
+c000000004C14E9520000000000000CEC
+t1276438866
+s3308
+i<Gosu/Fwd.hpp>
+i<Gosu/Color.hpp>
+i<Gosu/GraphicsBase.hpp>
+i<string>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/TextInput.hpp
+c000000004C0203110000000000000A91
+t1275200273
+s2705
+i<Gosu/Fwd.hpp>
+i<Gosu/Platform.hpp>
+i<boost/scoped_ptr.hpp>
+i<string>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Timing.hpp
+c000000004B8AB86F0000000000000155
+t1267382383
+s341
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Utility.hpp
+c000000004B8AB86F00000000000002B0
+t1267382383
+s688
+i<string>
+i<vector>
+
+N/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp
+c000000004C14E9520000000000000F1E
+t1276438866
+s3870
+i<Gosu/Fwd.hpp>
+i<Gosu/Platform.hpp>
+i<Gosu/Input.hpp>
+i<boost/scoped_ptr.hpp>
+i<boost/shared_ptr.hpp>
+i<boost/function.hpp>
+i<string>
+i<windows.h>
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C46BCD100000000000000EE
+t1279704273
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/TargetConditionals.h
+c000000004817F9680000000000002778
+t1209530728
+s10104
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/X11/Xlib.h
+c0000000049AC96FA0000000000018254
+t1236047610
+s98900
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/X11/Xutil.h
+c0000000049AC96FA00000000000052B9
+t1236047610
+s21177
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/X11/keysym.h
+c00000000499CDCFB0000000000000B4C
+t1235016955
+s2892
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/iso646.h
+c000000004AC59D930000000000000598
+t1254464915
+s1432
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/base.hpp
+c000000004C715B4000000000000002D2
+t1282497344
+s722
+i<Gosu/Gosu.hpp>
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/blood.hpp
+c000000004C717B200000000000000481
+t1282505504
+s1153
+i"game_object.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/game.hpp
+c000000004C715E010000000000000B87
+t1282498049
+s2951
+i<algorithm>
+i"base.hpp"
+i"window.hpp"
+i"player.hpp"
+i"manager.hpp"
+i"zombie.hpp"
+i"object_manager.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/game_object.hpp
+c000000004C70F95D0000000000000250
+t1282472285
+s592
+i<Gosu/Gosu.hpp>
+i<boost/utility.hpp>
+i<string>
+i"window.hpp"
+i"base.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/manager.hpp
+c000000004C70FB6C000000000000131C
+t1282472812
+s4892
+i<boost/lexical_cast.hpp>
+i"game_object.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/object_manager.hpp
+c000000004C70B04F00000000000006E4
+t1282453583
+s1764
+i<boost/ptr_container/ptr_list.hpp>
+i<boost/foreach.hpp>
+i<Gosu/Gosu.hpp>
+i<string>
+i"game_object.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/player.hpp
+c000000004C715E02000000000000096D
+t1282498050
+s2413
+i"game_object.hpp"
+i"manager.hpp"
+i<algorithm>
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/window.hpp
+c000000004C6F8A6200000000000000AC
+t1282378338
+s172
+i<Gosu/Gosu.hpp>
+i"object_manager.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/src/zombie.hpp
+c000000004C70F0EA00000000000009DD
+t1282470122
+s2525
+i"game_object.hpp"
+i"blood.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../media
+c000000004C7153900000000000000682
+t1282495376
+s1666
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp
+c000000004C70167000000000000002AF
+t1282414192
+s687
+i<Gosu/Autolink.hpp>
+i<iso646.h>
+i"window.hpp"
+i"game.hpp"
+i"object_manager.hpp"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/English.lproj/InfoPlist.strings
+c000000004C7158AB000000000000002D
+t1282496683
+s45
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.h
+c000000004C7160BE00000000000001AC
+t1282498750
+s428
+i<Cocoa/Cocoa.h>
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m
+c000000004C7158AB000000000000016D
+t1282496683
+s365
+i"LD18AppDelegate.h"
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch
+c000000004C7158AB000000000000008B
+t1282496683
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18
+t1282507355
+s69784
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18.LinkFileList
+c000000004C71824F0000000000000127
+t1282507343
+s295
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18AppDelegate.o
+t1282507353
+s12740
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/window_mac.o
+t1282507355
+s292468
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18
+t1282507357
+s63236
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18.LinkFileList
+c000000004C71824F0000000000000125
+t1282507343
+s293
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18AppDelegate.o
+t1282507355
+s12632
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/window_mac.o
+t1282507357
+s300192
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18
+t1282507355
+s69296
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18.LinkFileList
+c000000004C71824F000000000000012B
+t1282507343
+s299
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18AppDelegate.o
+t1282507352
+s14520
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/window_mac.o
+t1282507355
+s305684
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app
+t1282507358
+s102
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app.dSYM
+t1282507357
+s102
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Frameworks/Gosu.framework
+t1282507357
+s204
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Info.plist
+t1282507343
+s1012
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18
+t1282507357
+s210692
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/PkgInfo
+t1282507343
+s8
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1282507344
+s92
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/icon.icns
+t1282507343
+s19098
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/media
+t1282507344
+s1666
+
+N/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/icon.icns
+c000000004C7132E10000000000004A9A
+t1282487009
+s19098
+
+N/usr/local/include/boost/array.hpp
+c000000004C4D78B400000000000035A8
+t1280145588
+s13736
+
+N/usr/local/include/boost/cstdint.hpp
+c000000004C4D78B5000000000000424B
+t1280145589
+s16971
+
+N/usr/local/include/boost/foreach.hpp
+c000000004C4D78B5000000000000A7DF
+t1280145589
+s42975
+
+N/usr/local/include/boost/function.hpp
+c000000004C4D78B50000000000000898
+t1280145589
+s2200
+
+N/usr/local/include/boost/lexical_cast.hpp
+c000000004C4D78B40000000000009693
+t1280145588
+s38547
+
+N/usr/local/include/boost/optional.hpp
+c000000004C4D78B40000000000000210
+t1280145588
+s528
+
+N/usr/local/include/boost/ptr_container/ptr_list.hpp
+c000000004C4D78650000000000000CF9
+t1280145509
+s3321
+
+N/usr/local/include/boost/scoped_ptr.hpp
+c000000004C4D78B400000000000001EB
+t1280145588
+s491
+
+N/usr/local/include/boost/shared_ptr.hpp
+c000000004C4D78B5000000000000021B
+t1280145589
+s539
+
+N/usr/local/include/boost/utility.hpp
+c000000004C4D78B500000000000002E3
+t1280145589
+s739
+
+N/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-bseroygecarhgqbtfjgsebrolprq/LD18_Prefix.pch.gch
+t1282507349
+s2273648
+
+N/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-btdqugkquycamgfbmcsbpuvwzkcb/LD18_Prefix.pch.gch
+t1282507349
+s2515312
+
+N/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dcdzhiqpwfddswdohqkxhgwtattk/LD18_Prefix.pch.gch
+t1282507352
+s50053360
+
+N/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dwuvygqpzzezuucydfnmjnsqvygb/LD18_Prefix.pch.gch
+t1282507349
+s49897776
+
+N/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-faywbkdbrhlqgqdutqjzhiohyilt/LD18_Prefix.pch.gch
+t1282507344
+s2523504
+
+N/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-fmduebnznxvcccckidkywascdxck/LD18_Prefix.pch.gch
+t1282507349
+s52822448
+
+NLD18-Info.plist
+c000000004C7168D70000000000000441
+t1282500823
+s1089
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304200143#304200143#0(0"0(0#1#0"8613062368#0"0#
+
+CCompileC build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18AppDelegate.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304200152.893741
+e304200153.278465
+r1
+xCompileC
+xbuild/LD18.build/Release/LD18.build/Objects-normal/i386/LD18AppDelegate.o
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m304200152#304200153#0(0"0(0#0#93"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m8629563424#1929"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/i386" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -include /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-fmduebnznxvcccckidkywascdxck/LD18_Prefix.pch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18AppDelegate.o"0#
+
+CCompileC build/LD18.build/Release/LD18.build/Objects-normal/i386/window_mac.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s304200153.278604
+e304200155.671792
+r1
+xCompileC
+xbuild/LD18.build/Release/LD18.build/Objects-normal/i386/window_mac.o
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp:7,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:9,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp: In member function 'virtual bool Manager::update()':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:85: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:100: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+oIn file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:11,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp: In member function 'virtual bool Zombie::update()':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp:103: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp: In member function 'GameObject& ObjectManager::getObject(std::string)':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp:84: warning: control reaches end of non-void function
+lSLF07#2@108"Compile /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200153#304200155#0(1915"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp:7,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:9,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp: In member function 'virtual bool Manager::update()':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:85: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:100: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:11,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp: In member function 'virtual bool Zombie::update()':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp:103: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp: In member function 'GameObject& ObjectManager::getObject(std::string)':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp:84: warning: control reaches end of non-void function4(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200154#520#220#4(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200154#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200154#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#9#0#9#0#0"0(7@118"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304200154#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304190850#7#0#7#0#0"0(13@209"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304200154#18446744073709551615#0#0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#85#0#85#0#0"0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#85#0#85#0#33"'*' is deprecated (declared at *)0(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200154#740#221#4(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200154#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200154#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#9#0#9#0#0"0(7@118"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304200154#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304190850#7#0#7#0#0"0(13@209"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304200154#18446744073709551615#0#0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#100#0#100#0#0"0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#100#0#100#0#33"'*' is deprecated (declared at *)0(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200154#1358#220#3(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200154#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200154#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#11#0#11#0#0"0(13@208"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304200154#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304162922#103#0#103#0#0"0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304162922#103#0#103#0#33"'*' is deprecated (declared at *)0(22@40"Control reaches end of non-void function304200154#1756#159#0(6@104"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp304146383#84#0#84#0#40"control reaches end of non-void function0(0#0#100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp8607004000#1940"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/i386" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -include /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-btdqugkquycamgfbmcsbpuvwzkcb/LD18_Prefix.pch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/window_mac.o"0#
+
+CCompileC build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18AppDelegate.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s304200155.293556
+e304200155.489736
+r1
+xCompileC
+xbuild/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18AppDelegate.o
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m304200155#304200155#0(0"0(0#0#93"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m8599199232#1936"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/ppc" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -include /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dcdzhiqpwfddswdohqkxhgwtattk/LD18_Prefix.pch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18AppDelegate.o"0#
+
+CCompileC build/LD18.build/Release/LD18.build/Objects-normal/ppc/window_mac.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s304200155.489836
+e304200157.663007
+r1
+xCompileC
+xbuild/LD18.build/Release/LD18.build/Objects-normal/ppc/window_mac.o
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp:7,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:9,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp: In member function 'virtual bool Manager::update()':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:85: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:100: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+oIn file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:11,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp: In member function 'virtual bool Zombie::update()':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp:103: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp: In member function 'GameObject& ObjectManager::getObject(std::string)':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp:84: warning: control reaches end of non-void function
+lSLF07#2@108"Compile /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200155#304200157#0(1915"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp:7,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:9,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp: In member function 'virtual bool Manager::update()':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:85: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:100: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:11,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp: In member function 'virtual bool Zombie::update()':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp:103: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp: In member function 'GameObject& ObjectManager::getObject(std::string)':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp:84: warning: control reaches end of non-void function4(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200156#520#220#4(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200156#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200156#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#9#0#9#0#0"0(7@118"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304200156#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304190850#7#0#7#0#0"0(13@209"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304200156#18446744073709551615#0#0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#85#0#85#0#0"0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#85#0#85#0#33"'*' is deprecated (declared at *)0(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200156#740#221#4(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200156#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200156#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#9#0#9#0#0"0(7@118"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304200156#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304190850#7#0#7#0#0"0(13@209"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304200156#18446744073709551615#0#0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#100#0#100#0#0"0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#100#0#100#0#33"'*' is deprecated (declared at *)0(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200156#1358#220#3(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200156#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200156#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#11#0#11#0#0"0(13@208"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304200156#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304162922#103#0#103#0#0"0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304162922#103#0#103#0#33"'*' is deprecated (declared at *)0(22@40"Control reaches end of non-void function304200156#1756#159#0(6@104"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp304146383#84#0#84#0#40"control reaches end of non-void function0(0#0#100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp8612188064#1947"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/ppc" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -include /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-bseroygecarhgqbtfjgsebrolprq/LD18_Prefix.pch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/window_mac.o"0#
+
+CCompileC build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18AppDelegate.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304200152.735512
+e304200152.893634
+r1
+xCompileC
+xbuild/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18AppDelegate.o
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m304200152#304200152#0(0"0(0#0#93"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m8601574304#1935"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/x86_64" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -include /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dwuvygqpzzezuucydfnmjnsqvygb/LD18_Prefix.pch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18AppDelegate.m" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18AppDelegate.o"0#
+
+CCompileC build/LD18.build/Release/LD18.build/Objects-normal/x86_64/window_mac.o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304200152.736996
+e304200155.189721
+r1
+xCompileC
+xbuild/LD18.build/Release/LD18.build/Objects-normal/x86_64/window_mac.o
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp:7,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:9,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp: In member function 'virtual bool Manager::update()':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:85: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:100: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+oIn file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:11,
+o                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp: In member function 'virtual bool Zombie::update()':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp:103: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp: In member function 'GameObject& ObjectManager::getObject(std::string)':
+o/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp:84: warning: control reaches end of non-void function
+lSLF07#2@108"Compile /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200152#304200155#0(1915"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp:7,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:9,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp: In member function 'virtual bool Manager::update()':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:85: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp:100: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp:11,                 from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp:6:/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp: In member function 'virtual bool Zombie::update()':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp:103: warning: 'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp: In member function 'GameObject& ObjectManager::getObject(std::string)':/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp:84: warning: control reaches end of non-void function4(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200154#520#220#4(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200154#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200154#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#9#0#9#0#0"0(7@118"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304200154#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304190850#7#0#7#0#0"0(13@209"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304200154#18446744073709551615#0#0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#85#0#85#0#0"0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#85#0#85#0#33"'*' is deprecated (declared at *)0(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200154#740#221#4(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200154#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200154#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#9#0#9#0#0"0(7@118"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304200154#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/player.hpp304190850#7#0#7#0#0"0(13@209"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304200154#18446744073709551615#0#0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#100#0#100#0#0"0(6@97"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/manager.hpp304165612#100#0#100#0#33"'*' is deprecated (declared at *)0(22@108"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105)304200154#1358#220#3(7@122"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304200154#18446744073709551615#0#0(6@100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp304106992#6#0#6#0#0"0(7@116"In file included from /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304200154#18446744073709551615#0#0(6@94"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/game.hpp304190849#11#0#11#0#0"0(13@208"'audio' is deprecated (declared at /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework/Headers/Window.hpp:105) in /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304200154#18446744073709551615#0#0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304162922#103#0#103#0#0"0(6@96"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/zombie.hpp304162922#103#0#103#0#33"'*' is deprecated (declared at *)0(22@40"Control reaches end of non-void function304200154#1756#159#0(6@104"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/object_manager.hpp304146383#84#0#84#0#40"control reaches end of non-void function0(0#0#100"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp8599673440#1946"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/x86_64" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -include /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-faywbkdbrhlqgqdutqjzhiohyilt/LD18_Prefix.pch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../src/window_mac.cpp" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/window_mac.o"0#
+
+CCopyStringsFile "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s304200143.765183
+e304200144.078756
+r1
+xCopyStringsFile
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings304200143#304200144#0(0"0(0#0#107"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/English.lproj/InfoPlist.strings8602033568#442"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Release/LD18.app/Contents/Resources/icon.icns icon.icns
+s304200143.768828
+e304200143.788641
+r1
+xCpResource
+xbuild/Release/LD18.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns304200143#304200143#0(0"0(0#0#85"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/icon.icns8613751776#462"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/icon.icns" "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources"0#
+
+CCpResource build/Release/LD18.app/Contents/Resources/media ../../media
+s304200143.766147
+e304200144.041698
+r1
+xCpResource
+xbuild/Release/LD18.app/Contents/Resources/media
+x../../media
+lSLF07#2@16"Copy ../../media304200143#304200144#0(0"0(0#0#87"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../media8599255808#464"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/../../media" "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18" normal "x86_64 i386 ppc"
+s304200157.735033
+e304200157.742921
+r1
+xCreateUniversalBinary
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@89"CreateUniversalBinary build/Release/LD18.app/Contents/MacOS/LD18 normal "x86_64 i386 ppc"304200157#304200157#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/x86_64 i386 ppc8590193472#658"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    /usr/bin/lipo -create "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18" "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18" "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18" -output "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18"0#
+
+CGenerateDSYMFile "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app.dSYM" "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18"
+s304200157.743027
+e304200157.841833
+r1
+xGenerateDSYMFile
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app.dSYM
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18
+lSLF07#2@87"GenerateDSYMFile build/Release/LD18.app.dSYM build/Release/LD18.app/Contents/MacOS/LD18304200157#304200157#0(0"0(0#0#118"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD188613241728#347"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    /Developer/usr/bin/dsymutil "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/MacOS/LD18" -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app.dSYM"0#
+
+CLd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18" normal i386
+s304200155.671885
+e304200155.715571
+r1
+xLd
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18
+xnormal
+xi386
+lSLF07#2@141"Link /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18304200155#304200155#0(0"0(0#0#0"8599182976#797"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 -filelist "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Gosu -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/i386/LD18"0#
+
+CLd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18" normal ppc
+s304200157.663206
+e304200157.734934
+r1
+xLd
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18
+xnormal
+xppc
+lSLF07#2@140"Link /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18304200157#304200157#0(0"0(0#0#0"8601071264#794"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 -filelist "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Gosu -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/ppc/LD18"0#
+
+CLd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18" normal x86_64
+s304200155.189908
+e304200155.293446
+r1
+xLd
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18
+xnormal
+xx86_64
+lSLF07#2@143"Link /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18304200155#304200155#0(0"0(0#0#0"8615911360#803"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 -filelist "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Gosu -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/Objects-normal/x86_64/LD18"0#
+
+CPBXCp build/Release/LD18.app/Contents/Frameworks/Gosu.framework /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework
+s304200157.841918
+e304200158.083928
+r1
+xPBXCp
+xbuild/Release/LD18.app/Contents/Frameworks/Gosu.framework
+x/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework
+lSLF07#2@54"Copy /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework304200157#304200158#0(0"0(0#0#49"/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework8601607072#425"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Frameworks"0#
+
+CProcessInfoPlistFile "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Info.plist" LD18-Info.plist
+s304200143.739308
+e304200143.765084
+r1
+xProcessInfoPlistFile
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Info.plist
+xLD18-Info.plist
+lSLF07#2@23"Process LD18-Info.plist304200143#304200143#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18-Info.plist8599635232#422"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    builtin-infoPlistUtility LD18-Info.plist -genpkginfo "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dcdzhiqpwfddswdohqkxhgwtattk/LD18_Prefix.pch.gch LD18_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s304200149.668008
+e304200152.735304
+r1
+xProcessPCH
+x/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dcdzhiqpwfddswdohqkxhgwtattk/LD18_Prefix.pch.gch
+xLD18_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LD18_Prefix.pch304200149#304200152#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch8617712800#1785"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/ppc" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch" -o /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dcdzhiqpwfddswdohqkxhgwtattk/LD18_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dwuvygqpzzezuucydfnmjnsqvygb/LD18_Prefix.pch.gch LD18_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304200144.078873
+e304200149.578813
+r1
+xProcessPCH
+x/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dwuvygqpzzezuucydfnmjnsqvygb/LD18_Prefix.pch.gch
+xLD18_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LD18_Prefix.pch304200144#304200149#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch8612151168#1781"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/x86_64" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch" -o /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-dwuvygqpzzezuucydfnmjnsqvygb/LD18_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-fmduebnznxvcccckidkywascdxck/LD18_Prefix.pch.gch LD18_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304200144.185830
+e304200149.667897
+r1
+xProcessPCH
+x/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-fmduebnznxvcccckidkywascdxck/LD18_Prefix.pch.gch
+xLD18_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LD18_Prefix.pch304200144#304200149#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch8606005632#1777"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/i386" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch" -o /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-fmduebnznxvcccckidkywascdxck/LD18_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-bseroygecarhgqbtfjgsebrolprq/LD18_Prefix.pch.gch LD18_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
+s304200149.669487
+e304200149.775674
+r1
+xProcessPCH++
+x/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-bseroygecarhgqbtfjgsebrolprq/LD18_Prefix.pch.gch
+xLD18_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LD18_Prefix.pch304200149#304200149#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch8614278592#1794"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/ppc" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch" -o /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-bseroygecarhgqbtfjgsebrolprq/LD18_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-btdqugkquycamgfbmcsbpuvwzkcb/LD18_Prefix.pch.gch LD18_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s304200149.578975
+e304200149.669394
+r1
+xProcessPCH++
+x/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-btdqugkquycamgfbmcsbpuvwzkcb/LD18_Prefix.pch.gch
+xLD18_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LD18_Prefix.pch304200149#304200149#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch8602308832#1786"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/i386" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch" -o /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-btdqugkquycamgfbmcsbpuvwzkcb/LD18_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-faywbkdbrhlqgqdutqjzhiohyilt/LD18_Prefix.pch.gch LD18_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304200144.079767
+e304200144.185721
+r1
+xProcessPCH++
+x/var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-faywbkdbrhlqgqdutqjzhiohyilt/LD18_Prefix.pch.gch
+xLD18_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile LD18_Prefix.pch304200144#304200144#0(0"0(0#0#91"/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch8611749696#1790"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-generated-files.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-own-target-headers.hmap" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-all-target-headers.hmap" -iquote "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/LD18-project-headers.hmap" "-F/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release" -F/Coding/Frameworks/gosu-mac-0.7.22 "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/include" -I/usr/local/include "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources/x86_64" "-I/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/LD18.build/Release/LD18.build/DerivedSources" -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18_Prefix.pch" -o /var/folders/l0/l0evuGN6FW4J08Z3bKXXNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LD18_Prefix-faywbkdbrhlqgqdutqjzhiohyilt/LD18_Prefix.pch.gch0#
+
+CTouch "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app"
+s304200158.084032
+e304200158.088022
+r1
+xTouch
+x/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app
+lSLF07#2@104"Touch /Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app304200158#304200158#0(0"0(0#0#0"8616611328#208"    cd "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18"    /usr/bin/touch -c "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/build/Release/LD18.app"0#
+

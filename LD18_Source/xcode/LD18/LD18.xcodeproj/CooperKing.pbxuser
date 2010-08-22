@@ -126,11 +126,6 @@
 		name = objc.h;
 		path = /Developer/SDKs/MacOSX10.4u.sdk/usr/include/objc/objc.h;
 		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {523, 1209}}";
-			sepNavSelRange = "{1173, 0}";
-			sepNavVisRange = "{1213, 376}";
-		};
 	};
 	11BA4B6A12219A53000D3B4D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -141,10 +136,6 @@
 		rType = 0;
 		vrLen = 350;
 		vrLoc = 25;
-	};
-	11BA4B7C12219E41000D3B4D /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 8D1107310486CEB800E47090 /* LD18-Info.plist */;
 	};
 	11BA4B811221A06F000D3B4D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -166,7 +157,20 @@
 		vrLen = 45;
 		vrLoc = 0;
 	};
-	11BA4B831221A06F000D3B4D /* PlistBookmark */ = {
+	11BA4B941221A379000D3B4D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* LD18-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSArchitecturePriority,
+			0,
+		);
+		name = "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	11BA4B951221A379000D3B4D /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* LD18-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -175,9 +179,9 @@
 		);
 		name = "/Users/CooperKing/Dropbox/Coding/C++/DeadEndInc LD18/LD18_Source/xcode/LD18/LD18-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
-	11BA4B941221A379000D3B4D /* PlistBookmark */ = {
+	11BA4BDF1221BC29000D3B4D /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* LD18-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -190,7 +194,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775807;
 	};
-	11BA4B951221A379000D3B4D /* PlistBookmark */ = {
+	11BA4BE01221BC29000D3B4D /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* LD18-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -266,8 +270,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 304191195;
-			PBXWorkspaceStateSaveDate = 304191195;
+			PBXPerProjectTemplateStateSaveDate = 304200136;
+			PBXWorkspaceStateSaveDate = 304200136;
 		};
 		perUserProjectItems = {
 			11BA4AAC1221944F000D3B4D /* PBXTextBookmark */ = 11BA4AAC1221944F000D3B4D /* PBXTextBookmark */;
@@ -275,12 +279,12 @@
 			11BA4AAE1221944F000D3B4D /* PBXTextBookmark */ = 11BA4AAE1221944F000D3B4D /* PBXTextBookmark */;
 			11BA4ABF122194B1000D3B4D /* PBXTextBookmark */ = 11BA4ABF122194B1000D3B4D /* PBXTextBookmark */;
 			11BA4B6A12219A53000D3B4D /* PBXTextBookmark */ = 11BA4B6A12219A53000D3B4D /* PBXTextBookmark */;
-			11BA4B7C12219E41000D3B4D /* PBXBookmark */ = 11BA4B7C12219E41000D3B4D /* PBXBookmark */;
 			11BA4B811221A06F000D3B4D /* PBXTextBookmark */ = 11BA4B811221A06F000D3B4D /* PBXTextBookmark */;
 			11BA4B821221A06F000D3B4D /* PBXTextBookmark */ = 11BA4B821221A06F000D3B4D /* PBXTextBookmark */;
-			11BA4B831221A06F000D3B4D /* PlistBookmark */ = 11BA4B831221A06F000D3B4D /* PlistBookmark */;
 			11BA4B941221A379000D3B4D /* PlistBookmark */ = 11BA4B941221A379000D3B4D /* PlistBookmark */;
 			11BA4B951221A379000D3B4D /* PlistBookmark */ = 11BA4B951221A379000D3B4D /* PlistBookmark */;
+			11BA4BDF1221BC29000D3B4D /* PlistBookmark */ = 11BA4BDF1221BC29000D3B4D /* PlistBookmark */;
+			11BA4BE01221BC29000D3B4D /* PlistBookmark */ = 11BA4BE01221BC29000D3B4D /* PlistBookmark */;
 		};
 		sourceControlManager = 11BA4A2812219039000D3B4D /* Source Control */;
 		userBuildSettings = {
