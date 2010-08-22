@@ -7,7 +7,7 @@ All code is free to look, poke, and prod, but I must warn you; Put some boots on
 
 
 Thanks To:
-Jlrn and Gosu IRC for Gosu help.
+Jlnr and Gosu IRC for Gosu help.
 DrPetter and J.Bengtsson SFXR/CFXR for the sounds.
 Roisin for being patient with me.
 Meagan for snacks and drinks :)
