@@ -19,21 +19,20 @@ namespace Gosu
     //! Returns the height, in pixels, of the user's primary screen.
     unsigned screenHeight();
     
-    // Returns the maximum size of an image that can fit on a single
-    // texture.
-    // Only useful when extending Gosu using OpenGL.
-    // (Held back until it will not cause a stock Ubuntu to crash. Don't ask me!)
-    //extern unsigned const MAX_TEXTURE_SIZE;
+    //! Returns the maximum size of an texture that will be allocated
+    //! internally by Gosu.
+    //! Useful when extending Gosu using OpenGL.
+    extern unsigned const MAX_TEXTURE_SIZE;
     
     typedef boost::array<double, 16> Transform;
-    Transform rotate(double angle, double aroundX = 0, double aroundY = 0);
     Transform translate(double x, double y);
+    Transform rotate(double angle, double aroundX = 0, double aroundY = 0);
     Transform scale(double factor);
-    Transform scale(double factorX, double factorY);
+    Transform scale(double factorX, double factorY, double fromX = 0, double fromY = 0);
     
-    //! Serves as the target of all drawing and provides basic drawing
+    //! Serves as the target of all drawing and provides primitive drawing
     //! functionality.
-    //! Usually created by Gosu::Window.
+    //! Usually created internally by Gosu::Window.
     class Graphics
     {
         struct Impl;
@@ -44,8 +43,6 @@ namespace Gosu
         ~Graphics();
 
         // Undocumented until I have thought about this...
-        double factorX() const;
-        double factorY() const;
         void setResolution(unsigned virtualWidth, unsigned virtualHeight);
         // End of Undocumented
         
@@ -58,6 +55,10 @@ namespace Gosu
         bool begin(Color clearWithColor = Color::BLACK);
         //! Every call to begin must have a matching call to end.
         void end();
+        //! Flushes the Z queue to the screen and starts a new one.
+        //! Useful for games that are *very* composite in nature (splitscreen).
+        void flush();
+        
         //! Finishes all pending Gosu drawing operations and executes
         //! the following OpenGL code in a clean environment.
         void beginGL();

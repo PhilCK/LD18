@@ -13,7 +13,9 @@
 #include <string>
 
 #ifdef GOSU_IS_WIN
+#ifndef NOMINMAX
 #define NOMINMAX
+#endif
 #include <windows.h>
 #endif
 
@@ -28,7 +30,7 @@ namespace Gosu
     {
         struct Impl;
         boost::scoped_ptr<Impl> pimpl;
-
+	
     public:
         //! Constructs a Window.
         //! \param updateInterval Interval in milliseconds between two calls
@@ -59,6 +61,19 @@ namespace Gosu
         //! redraws for one reason or another.
         //! By default, the window is redrawn all the time.
         virtual bool needsRedraw() const { return true; }
+
+		//! If this function returns true, the system arrow cursor is drawn while
+		//! over the window.
+		virtual bool needsCursor() const { return false; }
+        
+        //! This function is called when the window loses focus on some platforms.
+        //! Most importantly, it is called on the iPhone or iPad when the user
+        //! locks the screen.
+        virtual void loseFocus() {}
+        
+        //! This function is called when the operating system's memory is low.
+        //! So far, it is only called in iOS applications.
+        virtual void releaseMemory() {}
         
         //! Called before update when the user pressed a button while the
         //! window had the focus.
@@ -94,15 +109,13 @@ namespace Gosu
         // Note that it does not hurt to override them even if you compile
         // for another platform; if you don't specify "virtual" the code
         // should even be stripped away cleanly.
-        virtual void touchesBegan(const Touches& touches) {}
-        virtual void touchesMoved(const Touches& touches) {}
-        virtual void touchesEnded(const Touches& touches) {}
-        // Currently known touches.
-        const Touches& currentTouches() const;
+        virtual void touchBegan(Touch touch) {}
+        virtual void touchMoved(Touch touch) {}
+        virtual void touchEnded(Touch touch) {}
         #endif        
         
-        GOSU_DEPRECATED const Audio& audio() const;
-        GOSU_DEPRECATED Audio& audio();
+        const Audio& audio() const;
+        Audio& audio();
 
         #endif
     };

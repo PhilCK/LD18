@@ -25,4 +25,3 @@ Known Bugs
 ==========
 Mac/Win - A little slow down at the beginning of the game.
 Mac - Sound Volume sometimes spikes.
-Mac - Sometimes the player will run off to one side and get stuck.

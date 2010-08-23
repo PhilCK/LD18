@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		115FCCD21222CCD300163DAC /* Gosu.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 115FCCD11222CCD300163DAC /* Gosu.framework */; };
+		115FCCF21222CCD900163DAC /* Gosu.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 115FCCD11222CCD300163DAC /* Gosu.framework */; };
 		11BA4A3912219102000D3B4D /* window_mac.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 11BA4A3812219102000D3B4D /* window_mac.cpp */; };
-		11BA4A3B12219231000D3B4D /* Gosu.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11BA4A3A12219231000D3B4D /* Gosu.framework */; };
-		11BA4A4C12219260000D3B4D /* Gosu.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 11BA4A3A12219231000D3B4D /* Gosu.framework */; };
 		11BA4A811221929C000D3B4D /* media in Resources */ = {isa = PBXBuildFile; fileRef = 11BA4A501221929C000D3B4D /* media */; };
 		11BA4A86122192F1000D3B4D /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 11BA4A85122192F1000D3B4D /* icon.icns */; };
 		256AC3DA0F4B6AC300CF3369 /* LD18AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* LD18AppDelegate.m */; };
@@ -24,7 +24,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				11BA4A4C12219260000D3B4D /* Gosu.framework in CopyFiles */,
+				115FCCF21222CCD900163DAC /* Gosu.framework in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -33,6 +33,7 @@
 /* Begin PBXFileReference section */
 		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		115FCCD11222CCD300163DAC /* Gosu.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Gosu.framework; path = "/Coding/Frameworks/gosu-mac-0.7.23/Gosu.framework"; sourceTree = "<absolute>"; };
 		11BA4A2C1221906E000D3B4D /* base.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = base.hpp; path = ../../src/base.hpp; sourceTree = SOURCE_ROOT; };
 		11BA4A2D1221906E000D3B4D /* blood.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = blood.hpp; path = ../../src/blood.hpp; sourceTree = SOURCE_ROOT; };
 		11BA4A2E1221906E000D3B4D /* game_object.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = game_object.hpp; path = ../../src/game_object.hpp; sourceTree = SOURCE_ROOT; };
@@ -44,7 +45,6 @@
 		11BA4A351221906E000D3B4D /* window.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = window.hpp; path = ../../src/window.hpp; sourceTree = SOURCE_ROOT; };
 		11BA4A361221906E000D3B4D /* zombie.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = zombie.hpp; path = ../../src/zombie.hpp; sourceTree = SOURCE_ROOT; };
 		11BA4A3812219102000D3B4D /* window_mac.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = window_mac.cpp; path = ../../src/window_mac.cpp; sourceTree = SOURCE_ROOT; };
-		11BA4A3A12219231000D3B4D /* Gosu.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Gosu.framework; path = "/Coding/Frameworks/gosu-mac-0.7.22/Gosu.framework"; sourceTree = "<absolute>"; };
 		11BA4A501221929C000D3B4D /* media */ = {isa = PBXFileReference; lastKnownFileType = folder; name = media; path = ../../media; sourceTree = SOURCE_ROOT; };
 		11BA4A85122192F1000D3B4D /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
 		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
@@ -63,7 +63,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
-				11BA4A3B12219231000D3B4D /* Gosu.framework in Frameworks */,
+				115FCCD21222CCD300163DAC /* Gosu.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,6 +82,7 @@
 		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				115FCCD11222CCD300163DAC /* Gosu.framework */,
 				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
 			);
 			name = "Linked Frameworks";
@@ -132,7 +133,6 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				11BA4A3A12219231000D3B4D /* Gosu.framework */,
 			);
 			name = LD18;
 			sourceTree = "<group>";
@@ -250,6 +250,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"/Coding/Frameworks/gosu-mac-0.7.22\"",
+					"\"/Coding/Frameworks/gosu-mac-0.7.23\"",
+					/Coding/Frameworks/GosuCurrent,
 				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
@@ -262,7 +264,7 @@
 				INFOPLIST_FILE = "LD18-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = LD18;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx10.6;
 			};
 			name = Debug;
 		};
@@ -275,6 +277,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"/Coding/Frameworks/gosu-mac-0.7.22\"",
+					"\"/Coding/Frameworks/gosu-mac-0.7.23\"",
+					/Coding/Frameworks/GosuCurrent,
 				);
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -284,7 +288,7 @@
 				INFOPLIST_FILE = "LD18-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = LD18;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx10.6;
 			};
 			name = Release;
 		};
